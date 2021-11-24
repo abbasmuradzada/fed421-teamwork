@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Gulzar was here
+=======
+fromroza
+khjbkj
+>>>>>>> 36f0ab0d16aa848f413fd85da15203e1547b45e1
